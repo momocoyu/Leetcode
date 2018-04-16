@@ -26,3 +26,5 @@
 53-Maximum Subarray  
 
 58-Length of Last Word
+
+66-Plus One
