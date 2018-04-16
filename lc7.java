@@ -1,4 +1,4 @@
-package com.company;
+//Given a 32-bit signed integer, reverse digits of an integer.
 
 import java.util.ArrayList;
 
