@@ -30,3 +30,5 @@
 66-Plus One
 
 67-Add Binary
+
+69-sqrt(x)
